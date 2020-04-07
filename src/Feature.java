@@ -4,4 +4,6 @@ public class Feature   {
     public void newFeature(){
       // new feature functionality
     }
+
+    // more stuff
 }
