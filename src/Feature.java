@@ -6,4 +6,7 @@ public class Feature   {
     }
 
     // more stuff
+    private static void coolMethod(){
+        //cool stuff
+    }
 }
